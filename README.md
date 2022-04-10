@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KirosinZ
-- 👀 I’m interested in programming all kinds of useless stuff for the sake of it.
-- 🌱 I’m currently learning C#, C++ and JS at university, but mainly use C# for my projects.
-- 💞️ I’m looking to collaborate on... something? Not sure my programming experience is sufficient to be helpful to anyone really.
+- 👀 I’m interested in programming all kinds of useless stuff for the sake of it. My passion is 3D graphics though.
+- 🌱 I mainly use C/C++ in my projects as they're my favorite languages.
+- 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me: it's all in the profile.
 
 <!---
