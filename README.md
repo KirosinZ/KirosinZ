@@ -14,10 +14,10 @@ My name is **Kirill**. I am currently a student at **[Voronezh State University]
 - **C++** - primarily
 - **C** - enjoy but do not get to use often
 - **C#** - mostly at university
-- **Java**, **Python** - was taught at university but never used outside it.
+- **Java**, **Python** - was taught at university but never used outside it
 
-### How to contact me
-I do not span many internet resources, so all I can offer is my **E-mail** and **[Discord](https://discordapp.com/users/353578395042578432)**
+## How to contact me
+I do not span many internet resources, so all I can offer aside from what is in the profile is my **[Discord](https://discordapp.com/users/353578395042578432)**
 
 
 <!---
